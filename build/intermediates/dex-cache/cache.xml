@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_cbd7df7bec3178efb9e20bc32493a2e93011f893.jar" />
+    </item>
+    <item
+        jar="/home/chenling/java/androidSDK/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_cdfb44772a14db8b4f335cdcb844421e3017a879.jar" />
+    </item>
+    <item
+        jar="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_111e298e2739aa90b1bec083584eccd3b6738de6.jar" />
+    </item>
+    <item
+        jar="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_30c3be79c4585b2e59a3d679bee3db30ca8ed7a5.jar" />
+    </item>
+    <item
+        jar="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_57b867cac125c9bd70ef1eeab7ec8251114e8bf6.jar" />
+    </item>
+    <item
+        jar="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/chenling/java/androidstudio/JNIDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_b31ceec2605155875c35e5e2f3639f42f664f0c1.jar" />
+    </item>
+
+</items>
